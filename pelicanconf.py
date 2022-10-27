@@ -1,6 +1,6 @@
 AUTHOR = 'Kashka'
 SITENAME = 'Superflux'
-SITEURL = ''
+SITEURL = 'https://cedricco.github.io/superflux/'
 
 PATH = 'content'
 
